@@ -1,0 +1,22 @@
+
+
+/* Small screen | Galaxy Fold */
+@media screen and (max-width:320px) {
+    * {
+        font-size: 10px;
+    }
+}
+
+/* Medium screnn | Tablets */
+@media screen and (min-width: 600px) and (max-width: 992px) {
+    * {
+        font-size: 23px;
+    }
+}
+
+/* Large screen | Desktop */
+@media screen and (min-width: 993px) {
+    * {
+        font-size: 16px;
+    }
+}
